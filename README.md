@@ -1,2 +1,2 @@
 # biostat
-Statistical boiler pipelines for biological data
+## Statistical boiler pipelines for biological data
